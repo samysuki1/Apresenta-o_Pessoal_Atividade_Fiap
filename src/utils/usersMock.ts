@@ -11,29 +11,20 @@ interface UsersTypes {
 export const usersMock: UsersTypes[] = [
   {
     id: "1",
-    name: 'Lucas Gomes',
-    age: 31,
-    email: 'lucasgomesbr@gmail.com',
-    job: 'Desenvolvedor',
-    city: 'Ribeirão Preto',
+    name: 'Samantha Silva',
+    age: 28,
+    email: 'samysuki1@gmail.com',
+    job: 'Coordenadora de E-commerce',
+    city: 'São Paulo',
     state: 'São Paulo'
   },
   {
     id: "2",
-    name: 'Marina Falcão',
-    age: 27,
-    email: 'marina@hotmail.com',
-    job: 'Professora',
-    city: 'Ribeirão Preto',
-    state: 'São Paulo'
-  },
-  {
-    id: "3",
-    name: 'Ritinha',
-    age: 2,
-    email: 'ritita@gmail.com',
-    job: 'Gata',
-    city: 'Ribeirão Preto',
+    name: 'Mainan',
+    age: 25,
+    email: 'moraesmainan@gmail.com',
+    job: 'Analista de SEO Jr',
+    city: 'São Paulo',
     state: 'São Paulo'
   },
 ]
